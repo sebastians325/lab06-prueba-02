@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
-Test set: tests_ejercicio_01.MathUtilsTest
+Test set: ejercicio_01.ShoppingCartTest
 -------------------------------------------------------------------------------
-Tests run: 4, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.056 s -- in tests_ejercicio_01.MathUtilsTest
+Tests run: 5, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.023 s -- in ejercicio_01.ShoppingCartTest
